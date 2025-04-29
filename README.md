@@ -30,8 +30,6 @@ This is a mobile authentication system built with **React Native**. It includes 
 ```bash
 npm install
 npx react-native run-android # or run-ios
-Screenshots
-(Add your screenshots here, like Sign In / Sign Up pages)
 
 Author
 @gulistansenates
